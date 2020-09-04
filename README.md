@@ -1,2 +1,4 @@
 # hello-world
-Project 1
+
+
+Logan Maakestad here making my first Git Repository and edit.
