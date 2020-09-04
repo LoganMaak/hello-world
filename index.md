@@ -1,1 +1,1 @@
-![Cloud Logo]
+![Budgy Image](/images/pudgybudgy.jpg)
